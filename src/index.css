@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: beige;
+}
+
+th {
+    width: 70vh;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+
+}
+
+.Market {
+    width: 100px;
+
+}
+.Place h2 {
+    text-shadow: 1px 1px 10px rgb(255, 152, 26);
+    color: rgb(0, 0, 0);
+}
+.Place img {
+    width: auto;
+    height: 200px;
+}
+
+.Market h2,
+h4 {
+    line-height: 0px;
+    align-content: center;
+}
+.Place {
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgb(255, 240, 198);
+    
+}
+.Place button {
+    background-color: rgb(255, 222, 166);
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
