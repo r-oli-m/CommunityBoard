@@ -26,8 +26,7 @@ Here's a walkthrough of implemented required features:
 
 ![bobaWebsiteDemo](https://github.com/r-oli-m/CommunityBoard/assets/99136190/db92a859-d129-4067-8f44-a96c5c507847)
 
-GIF created with [...  
-](https://www.freeconvert.com/convert/video-to-gif)
+GIF created with [FreeConvert](https://www.freeconvert.com/convert/video-to-gif)
 ## Notes
 
 - understanding props and how to make reusable code
